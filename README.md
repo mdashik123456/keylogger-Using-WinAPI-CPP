@@ -32,6 +32,3 @@ A simple Windows keylogger that captures keyboard input and logs it to a file.
 - This tool is for educational purposes only
 - Always get proper authorization before using on any system
 - The log file (`system_log.txt`) can be viewed with any text editor
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
