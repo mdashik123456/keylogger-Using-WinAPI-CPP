@@ -4,14 +4,13 @@ A simple Windows keylogger that captures keyboard input and logs it to a file.
 
 ## Features
 - Captures both uppercase and lowercase characters
-- Handles shift key and caps lock states correctly
-- Logs only printable characters (ignores special keys)
+- Handles all the keys correctly including special keys 
 - Stores output sequentially in a clean format
 - Lightweight and efficient
 
 ## Requirements
 - Windows OS
-- C++ compiler (Visual Studio, MinGW, etc.)
+- C++ compiler
 
 ## Installation
 1. Clone this repository
@@ -31,4 +30,5 @@ A simple Windows keylogger that captures keyboard input and logs it to a file.
 ## Important Notes
 - This tool is for educational purposes only
 - Always get proper authorization before using on any system
-- The log file (`system_log.txt`) can be viewed with any text editor
+- The log file (`key_log.txt`) can be viewed with any text editor
+
